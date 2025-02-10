@@ -12,3 +12,6 @@ npm install
 npm run windows:package
 ```
 
+# Important Notes
+When you add a method to your API Gateway, make sure to enable the  
+**Lambda proxy integration** option
